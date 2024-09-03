@@ -1,0 +1,16 @@
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\net8.0-windows\AreaAndPerimeter.exe
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\net8.0-windows\AreaAndPerimeter.deps.json
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\net8.0-windows\AreaAndPerimeter.runtimeconfig.json
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\net8.0-windows\AreaAndPerimeter.dll
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\net8.0-windows\AreaAndPerimeter.pdb
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.Form1.resources
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.AssemblyInfo.cs
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.dll
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\refint\AreaAndPerimeter.dll
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.pdb
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\AreaAndPerimeter.genruntimeconfig.cache
+C:\Users\Jonpa\source\repos\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\net8.0-windows\ref\AreaAndPerimeter.dll
