@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pack_AirlineReservationSystem", "Pack_AirlineReservationSystem\Pack_AirlineReservationSystem.csproj", "{6C8A2F7C-AC2E-4D9D-B9A3-2A6D6B3DC1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8A2F7C-AC2E-4D9D-B9A3-2A6D6B3DC1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8A2F7C-AC2E-4D9D-B9A3-2A6D6B3DC1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8A2F7C-AC2E-4D9D-B9A3-2A6D6B3DC1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8A2F7C-AC2E-4D9D-B9A3-2A6D6B3DC1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDD519A7-846C-4D66-A246-01259247348F}
+	EndGlobalSection
+EndGlobal

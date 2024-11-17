@@ -1,0 +1,16 @@
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0-windows\BankingApplication.exe
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0-windows\BankingApplication.deps.json
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0-windows\BankingApplication.runtimeconfig.json
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0-windows\BankingApplication.dll
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0-windows\BankingApplication.pdb
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.Form1.resources
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.csproj.GenerateResource.cache
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.AssemblyInfo.cs
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.dll
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\refint\BankingApplication.dll
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.pdb
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\BankingApplication.genruntimeconfig.cache
+C:\Users\lukes\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0-windows\ref\BankingApplication.dll

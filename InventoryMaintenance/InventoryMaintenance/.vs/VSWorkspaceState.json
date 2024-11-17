@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InventoryMaintenance",
+    "\\InventoryMaintenance\\InventoryMaintenance",
+    "\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance"
+  ],
+  "SelectedNode": "\\InventoryMaintenance\\InventoryMaintenance\\InventoryMaintenance\\InvItem.cs",
+  "PreviewInSolutionExplorer": false
+}
